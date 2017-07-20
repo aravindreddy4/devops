@@ -1,2 +1,3 @@
 # devops
-just a repository
+hi developers
+how are you
